@@ -1,4 +1,4 @@
-def say_hello(language="Ruby", name)
+def greeting(name, language="Ruby")
   puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
 
