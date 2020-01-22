@@ -3,4 +3,4 @@ def say_hello(name, language="Ruby")
 end
 
 
-greeting("Sophie")
+say_hello("Ruby Programmer")
