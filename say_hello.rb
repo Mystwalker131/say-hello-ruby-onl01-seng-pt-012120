@@ -13,7 +13,7 @@ end
 # puts "Hello,#{name}"
 
 # end
-# say_hello("Kent Beck")
+ say_hello("Kent Beck")
 
 # Kent_Black
 say_hello("Kent Beck!")
