@@ -13,10 +13,10 @@ end
 # puts "Hello,#{name}"
 
 # end
- say_hello("Kent Beck")
+ say_hello("Ruby Programmer")
 
 # Kent_Black
-say_hello("Kent Beck!")
+
  
 # The method prints this text to the screen:
 #Hello Kent Beck!
