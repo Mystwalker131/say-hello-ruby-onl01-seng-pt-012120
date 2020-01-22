@@ -7,17 +7,9 @@ def say_hello(name="Kent Beck")
 end
 
 
-# name = ("Kent Beck")
 
-# def say_hello(name)
-# puts "Hello,#{name}"
+say_hello
 
-# end
- say_hello("Ruby Programmer")
 
-# Kent_Black
+say_hello("Ruby Programmer")
 
- 
-# The method prints this text to the screen:
-#Hello Kent Beck!
-#Kent_Beck
