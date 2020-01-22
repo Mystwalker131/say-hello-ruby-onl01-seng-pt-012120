@@ -1,7 +1,7 @@
 # def say_hello(name = "Kent Beck")
 #   puts "Hello, #{name}"
 # end
-def say_hello(name="Kent Beck", language="Ruby")
+def say_hello(name="Kent Beck", language="Ruby Programmer")
   puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
 
